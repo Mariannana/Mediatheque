@@ -1,0 +1,218 @@
+[
+    {
+      "id":1,
+      "titre": "Le Seigneur des anneaux",
+      "auteur": "J.R.R. Tolkien",
+      "annee": 1954,
+      "resume":"Le Seigneur des Anneaux est un roman de fantasy épique écrit par J.R.R. Tolkien. L'histoire suit la quête de Frodon Sacquet pour détruire l'Anneau unique, un puissant artefact forgé par le maléfique Sauron pour conquérir et asservir la Terre du Milieu. Frodon est aidé dans sa quête par un groupe de compagnons, dont le célèbre magicien Gandalf, le guerrier Aragorn et l'elfe Legolas. Leur voyage les amène à traverser de vastes paysages, à combattre de terribles ennemis et à affronter leurs propres peurs et faiblesses.",
+      "image": "images/1.jpg"
+    },
+    {
+      "id":2,
+      "titre": "1984",
+      "auteur": "George Orwell",
+      "resume":"1984 est un roman dystopique écrit par George Orwell. L'histoire se déroule dans un futur sombre où le monde est divisé en trois super-États en guerre constante. Le protagoniste, Winston Smith, est un employé du gouvernement qui commence à remettre en question la société oppressive et totalitaire dans laquelle il vit. Winston se rebelle contre l'État en écrivant un journal intime et en entamant une relation secrète avec une femme nommée Julia. Le livre explore des thèmes tels que la surveillance, la propagande, le pouvoir et la manipulation.",
+      "annee": 1949,
+      "image": "images/2.jpg"
+    },
+    {
+        "id":3,
+      "titre": "Les androïdes rêvent-ils de moutons électriques ?",
+      "auteur": "Philip K. Dick",
+      "resume": "L'histoire se déroule dans un futur post-apocalyptique où la Terre a été ravagée par une guerre nucléaire. Les animaux sont devenus rares et très prisés, et les personnes les plus riches peuvent se permettre d'en posséder un. Le protagoniste, Rick Deckard, est un chasseur de primes qui a pour mission de traquer et de « retirer » (c'est-à-dire tuer) des androïdes rebelles, conçus pour ressembler à des humains. Deckard est confronté à des questions sur l'humanité et la moralité alors qu'il poursuit sa mission, ",
+      "annee": 1968,
+      "image":"images/3.jpg"
+    },
+    {
+        "id":4,
+      "titre": "Pensées pour moi-même",
+      "auteur": "Marc Aurèle",
+      "resume":"Pensées pour moi-même est un recueil de pensées et de maximes rédigé par l'empereur romain Marc Aurèle. Le livre est considéré comme une œuvre majeure de la philosophie stoïcienne. Il se compose de douze livres qui contiennent des réflexions sur des sujets tels que la sagesse, la vertu, la mort et la nature. Les pensées de Marc Aurèle sont influencées par les enseignements de la philosophie grecque, notamment celle d'Épictète.",
+      "annee": 180,
+      "image": "images/4.jpg"
+    },
+    {
+        "id":5,
+      "titre": "La Nausée",
+      "auteur": "Jean-Paul Sartre",
+      "resume":"La Nausée est un roman existentialiste écrit par Jean-Paul Sartre. L'histoire suit le personnage principal, Antoine Roquentin, un écrivain qui vit à Bouville. Roquentin est pris de nausées lorsqu'il prend conscience de l'absurdité et de la vacuité de l'existence humaine. Le livre explore des thèmes tels que la liberté, l'angoisse, l'absurdité et l'existence.",
+      "annee": 1938,
+      "image": "images/5.jpg"
+    },
+    {
+        "id":6,
+      "titre": "L'Écume des jours",
+      "auteur": "Boris Vian",
+      "resume":" L'histoire se déroule dans un univers surréaliste et poétique, où Colin, un jeune homme riche, tombe amoureux de Chloé. Mais leur bonheur est éphémère car Chloé tombe malade d'une maladie rare, le nénuphar. Colin doit trouver un moyen de sauver Chloé tout en évitant les machinations diaboliques de son ami Chick. Le livre explore des thèmes tels que l'amour, la maladie, la mort et la folie.",
+      "annee": 1947,
+      "image": "images/6.jpg"
+    },
+    {
+        "id":7,
+      "titre": "Notre-Dame de Paris",
+      "auteur": "Victor Hugo",
+      "resume":"Notre-Dame de Paris est un roman historique de Victor Hugo. L'histoire se déroule au Moyen Âge, dans la ville de Paris, et suit le personnage principal, Quasimodo, un bossu qui travaille comme sonneur de cloches à la cathédrale Notre-Dame. Quasimodo tombe amoureux de la belle gitane Esmeralda, mais leur amour est contrarié par les machinations du juge Frollo. Le livre explore des thèmes tels que l'amour, la justice, la religion et la société médiévale.",
+      "annee": 1831,
+      "image": "images/7.jpg"
+    },
+    {
+        "id":8,
+      "titre": "Minority Report",
+      "auteur": "Philip K. Dick",
+      "resume":"L'histoire se déroule dans un futur où les crimes peuvent être prédits avant qu'ils ne se produisent, grâce à des mutants appelés « précogs ». John Anderton est le chef de la division de la Pré-Crime, une unité de police qui utilise les prédictions des précogs pour arrêter les criminels avant qu'ils ne commettent leur crime. Mais lorsqu'il est lui-même accusé d'un meurtre futur, Anderton doit fuir pour prouver son innocence. Le livre explore des thèmes tels que le libre arbitre, la prédiction, la justice et la culpabilité.",
+      "annee": 1956,
+      "image": "images/8.jpg"
+    },
+    {
+        "id":9,
+      "titre": "L'Appel de Cthulhu",
+      "auteur": "H.P. Lovecraft",
+      "resume":" L'histoire suit le personnage de Francis Wayland Thurston, qui découvre des documents relatant l'existence d'un culte vénérant une divinité extraterrestre appelée Cthulhu. Thurston découvre bientôt que Cthulhu est sur le point de se réveiller et de ramener l'apocalypse sur Terre. La nouvelle explore des thèmes tels que l'horreur cosmique, l'occultisme et la folie.",
+      "annee": 1928,
+      "image":"images/9.jpg"
+    },
+    {
+        "id":10,
+      "titre": "Crime et Châtiment",
+      "auteur": "Fiodor Dostoïevski",
+      "resume":"L'histoire suit le personnage principal, Rodion Raskolnikov, un étudiant qui commet un meurtre pour des raisons philosophiques. Raskolnikov est hanté par sa conscience et doit faire face aux conséquences de son acte. Le livre explore des thèmes tels que la culpabilité, la justice, la psychologie criminelle et la nature humaine.",
+      "annee": 1866,
+      "image": "images/10.jpg"
+    },
+    {
+        "id":11,
+      "titre": "Les frères Karamazov",
+      "auteur": "Fiodor Dostoïevski",
+      "resume":"L'histoire suit la vie de la famille Karamazov, notamment les relations complexes entre les frères Dmitri, Ivan et Alexei. Le livre explore des thèmes tels que la morale, la religion, la paternité et la culpabilité. L'intrigue se concentre sur le meurtre du père Karamazov et sur les conséquences pour chacun des frères. Le roman est considéré comme un classique de la littérature russe et de la littérature mondiale.",
+      "annee": 1880,
+      "image": "images/11.jpg"
+    },
+    {
+        "id":12,
+        "titre": "Le Maître et Marguerite",
+        "auteur": "Mikhaïl Boulgakov",
+        "resume":"L'histoire se déroule à Moscou dans les années 1930 et suit le personnage principal, le Maître, un écrivain qui tente de publier son livre sur Ponce Pilate, et Marguerite, une femme mystérieuse qui devient son amante. Le roman mélange des éléments fantastiques, satiriques et philosophiques, explorant des thèmes tels que la liberté, la corruption et la croyance.",
+        "annee": 1966,
+        "image": "images/12.jpg"
+    },
+    {
+      "id":13,
+      "titre": "Blast",
+      "auteur": "Manu Larcenet",
+      "resume":"L'histoire suit le personnage principal, Polza Mancini, un homme brisé qui entreprend un voyage en montagne pour se reconnecter à lui-même. Au cours de son voyage, il rencontre des personnages étranges et perturbants, et se confronte à ses démons intérieurs. Le livre explore des thèmes tels que la folie, la solitude et la quête de sens.",
+      "annee": 2016,
+      "image": "images/13.jpg"
+    },
+    {
+      "id":14,
+      "titre": "Akira, tome 1",
+      "auteur": "Katsuhiro Otomo",
+      "resume":"L'histoire se déroule dans un futur post-apocalyptique à Neo-Tokyo, où un groupe de jeunes motards, dont Kaneda et Tetsuo, se retrouve impliqué dans une conspiration gouvernementale et dans la découverte de pouvoirs psychiques. La série explore des thèmes tels que la violence, la technologie, la mutation et la résilience de l'humanité. La série a été adaptée en un film d'animation en 1988 et est considérée comme l'un des chefs-d'œuvre de la culture pop japonaise.",
+      "annee": 1982,
+      "image": "images/14.jpg"
+    },
+    {
+      "id":15,
+      "titre": "Monster, tome 1",
+      "auteur": "Naoki Urasawa",
+      "resume":"L'histoire suit le neurochirurgien Kenzo Tenma qui, après avoir sauvé la vie d'un jeune garçon nommé Johan, voit sa vie basculer. Des années plus tard, Tenma découvre que Johan est devenu un meurtrier en série et se met en quête de l'arrêter. Le manga explore des thèmes tels que la psychologie criminelle, la responsabilité morale et les conséquences de nos choix.",
+      "annee": 1995,
+      "image": "images/15.jpg"
+    },
+    {
+      "id":16,
+      "titre": "Sin City",
+      "auteur": "Frank Miller",
+      "resume":"L'histoire suit un homme appelé Marv, qui est accusé à tort du meurtre de sa seule amie, une prostituée nommée Goldie. Marv décide de se venger en cherchant les vrais coupables et en nettoyant les rues de Sin City. Mais plus il en découvre sur les agissements criminels de la ville, plus il se rend compte qu'il est en train de mettre sa propre vie en danger.",
+      "annee": 1991,
+      "image": "images/16.jpg"
+    },
+    {
+      "id":17,
+      "titre": "Watchmen",
+      "auteur": "Alan Moore",
+      "resume":" L'histoire se déroule dans une version alternative des États-Unis dans les années 1980, où des justiciers costumés ont été bannis par le gouvernement. Lorsqu'un de ces justiciers est assassiné, d'autres héros masqués enquêtent sur la conspiration qui se cache derrière cet acte, révélant des secrets profonds et sombres sur le passé de chacun et sur le monde dans lequel ils vivent.",
+      "annee": 1986,
+      "image": "images/17.jpg"
+    },
+    {
+      "id":18,
+      "titre": "La Caste des Méta-Barons, tome 4",
+      "auteur": "Alejandro Jodorowsky",
+      "resume":" L'histoire suit le Méta-Baron No Name alors qu'il se rend sur la planète Odaïba pour rencontrer un vieil ami. Mais il découvre que cette planète est gouvernée par une reine impitoyable, qui cherche à étendre son empire sur toute la galaxie. No Name doit trouver un moyen de contrecarrer ses plans tout en protégeant son ami.",
+      "annee": 1992,
+      "image": "images/18.jpg"
+    },
+    {
+      "id":19,
+      "titre": "Requiem, tome 1 : Resurrection",
+      "auteur": "Pat Mills",
+      "resume":"Réminiscences est le premier tome de la série Requiem, Chevalier Vampire, créée par Pat Mills et Olivier Ledroit. L'histoire suit Heinrich Augsburg, un soldat allemand de la Première Guerre mondiale qui est tué au combat et se retrouve transporté dans un monde fantastique peuplé de vampires et d'autres créatures surnaturelles. Il est transformé en vampire par une mystérieuse femme nommée Rebecca et doit apprendre à survivre dans ce nouveau monde tout en essayant de comprendre comment il est arrivé là et pourquoi.",
+      "annee": 2000,
+      "image": "images/19.jpg"
+    },
+    {
+      "id":20,
+      "titre": "Notre part de nuit",
+      "auteur": "Marianne Chaillan",
+      "resume":"Notre Part de Nuit est un roman écrit par Mariana Enriquez. L'histoire suit une jeune femme nommée Carla qui se rend dans la maison de campagne de sa famille dans la province de Buenos Aires en Argentine. Là-bas, elle se retrouve confrontée à des événements étranges et sinistres qui semblent liés à une série de meurtres brutaux dans la région. Carla doit faire face à son propre passé familial traumatisant tout en essayant de découvrir la vérité sur ce qui se passe autour d'elle.",
+      "annee": 2020,
+      "image": "images/20.jpg"
+    },
+    {
+      "id":21,
+      "titre": "Shining",
+      "auteur": "Stephen King",
+      "resume": "Shining est un roman écrit par Stephen King. L'histoire suit un écrivain nommé Jack Torrance, qui accepte un travail de gardien dans un hôtel isolé dans les montagnes du Colorado, pendant l'hiver. L'hôtel est hanté par des esprits maléfiques qui commencent à influencer l'esprit de Jack, le poussant vers la folie et la violence. Pendant ce temps, son jeune fils Danny possède une capacité psychique surnaturelle connue sous le nom de Shining, qui lui permet de voir les esprits et de communiquer avec eux.",
+      "annee": 1977,
+      "image": "images/21.jpg"
+    },
+    {
+      "id":22,
+      "titre": "La Route",
+      "auteur": "Cormac McCarthy",
+      "resume":" La Route est un roman post-apocalyptique écrit par Cormac McCarthy. L'histoire suit un père et son jeune fils qui errent sur une route désolée à travers un paysage dévasté par une catastrophe inconnue. Le monde dans lequel ils vivent est désolé et dangereux, rempli de cannibales et de pillards qui cherchent à les tuer pour leurs ressources. Le père et le fils doivent se battre pour survivre tout en maintenant leur humanité dans un monde qui ne semble plus en avoir.",
+      "annee": 2006,
+      "image":"images/22.jpg"
+    },
+    {
+      "id":23,
+      "titre": "Misery",
+      "auteur": "Stephen King",
+      "resume":" Misery est un roman écrit par Stephen King. L'histoire suit un célèbre écrivain nommé Paul Sheldon, qui est sauvé d'un accident de voiture par une infirmière nommée Annie Wilkes. Annie se révèle être une fan obsessionnelle de ses livres, et lorsqu'elle découvre que Paul a tué son personnage préféré dans son dernier livre, elle le retient captif et le force à écrire une nouvelle histoire qui ramènera son personnage à la vie.",
+      "annee": 1987,
+      "image": "images/23.jpg"
+    },
+    {
+      "id":24,
+      "titre": "L'Idiot",
+      "auteur": "Fiodor Dostoïevski",
+      "resume":"L'histoire suit le personnage principal, le prince Mychkine, qui souffre d'une forme d'épilepsie et qui est considéré comme un idiot par la société de son époque. Malgré cela, le prince Mychkine est aimé et apprécié pour sa bonté et sa compassion envers les autres. L'histoire suit ses relations avec deux femmes, Nastassia Filippovna et Aglaé Epanchine, ainsi que ses interactions avec une variété d'autres personnages, dont beaucoup sont cyniques et corrompus. Le roman explore les thèmes de la beauté, de la bonté et de la morale dans une société qui semble être tombée en ruine.",
+      "annee": 1869,
+      "image": "images/24.jpg"
+    },
+    {
+      "id":25,
+      "titre": "Anna Karenine",
+      "auteur": "Léon Tolstoï",
+      "resume":"L'histoire suit les vies de plusieurs personnages, dont la belle et aristocratique Anna Karenine, qui vit une relation adultère avec un officier de l'armée russe nommé Vronski. Le roman explore les thèmes de l'amour, de la jalousie, de la trahison et de la société russe de l'époque.",
+      "annee": 1877,
+      "image": "images/25.jpg"
+    },
+    {
+      "id":26,
+      "titre": "L'Étranger",
+      "auteur": "Albert Camus",
+      "resume":"L'histoire suit le personnage principal, Meursault, un employé de bureau algérien qui semble déconnecté des émotions et des événements de la vie. Lorsqu'il tue un homme sur une plage, sa vie devient de plus en plus compliquée alors qu'il est accusé de meurtre et qu'il doit faire face à la société et à ses propres idées de l'existence et de la mort.",
+      "annee": 1942,
+      "image": "images/26.jpg"
+    },
+    {
+      "id":27,
+      "titre": "L'encylopédie Pokémon",
+      "auteur": "prof Chen",
+      "resume":"Le livre contient des informations détaillées sur les différents types de Pokémon, leurs capacités et leurs caractéristiques, ainsi que sur l'univers Pokémon en général. Il s'agit d'un guide pratique pour les fans de Pokémon qui souhaitent en savoir plus sur leurs personnages préférés et leur monde fictif.",
+      "annee": 2015,
+      "image": "images/27.jpg"
+    } 
+]

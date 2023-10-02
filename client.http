@@ -1,0 +1,8 @@
+post http://localhost/TP Mediathèque/addreservation.php
+Content-Type: application/x-www-form-urlencoded
+
+id_livre=1
+nom=Fernandez
+prenom=Marianne
+mail=mail@mail.fr
+

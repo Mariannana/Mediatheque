@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins';
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    background-color: #EBEAEA;
+}
+
+header{
+    background-color: #056374bd;
+    height:100px;
+    border:solid;
+    border-color:#056374;
+    
+}
+
+#nav-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logo{
+    height:150px;
+    padding-bottom:50px;
+    padding-left:25px;
+}
+
+#logo2{
+    height:80px;
+    padding-right:40px;
+    margin-bottom:45px;
+}
+
+#img{
+    height: 130px;
+}
+
+#ban{
+    height:20rem;
+    margin:auto;
+    display: flex;
+   
+}
+
+main{
+    padding:10px;
+    min-height:100vh;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap:30px;
+}
+
+main>*{
+    background-color: rgba(255, 255, 255, 0.934);
+    padding:10px;
+}
+
+.books{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:10px;
+}
+
+.allBooks{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.564);
+    background-color:#056374bd;
+
+}
+
+.allBooks:hover{
+    background-color: #056374;;
+}
+
+.search{
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+    background-color: rgba(164, 154, 154, 0.481);
+    top:10px;
+    height:150vh;  
+}
+
+
+.search_bar{
+  
+    padding: 10px;
+    height : 20px;
+    background-color: rgba(150, 143, 143, 0.128);
+    color:black;
+}
+
+.search_book{
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+    padding: 5px;
+    background-color:#056374;
+}
+
+.form{
+    height: 100px;
+}
+
+
+.go_top{
+    position: fixed;
+    bottom:60px;
+    right:60px;
+    background-color:#1817066c;
+    color:black;
+    clip-path: circle();
+    width:50px;
+    height:50px;
+
+}
+
+button {
+    background: #81989cb7;
+
+color: rgba(71, 16, 16, 0);
+
+border-style: outset;
+
+border-color: #0621300f;
+
+height: 50px;
+
+width: 170px;
+
+}
+
+.detail > div {
+    color:white !important;
+}
+
